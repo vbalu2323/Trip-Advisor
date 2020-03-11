@@ -1,0 +1,7 @@
+<suite name="smokesuite">
+	<test name="testcase1">
+		<classes>
+			<class name="Test.AmazonPageTest" />
+		</classes>
+	</test>
+</suite>
